@@ -1,3 +1,4 @@
+let hello = 1
 radio.onReceivedString(function on_received_string(receivedString: string) {
     basic.showString(receivedString)
 })

@@ -8,6 +8,7 @@ def on_button_pressed_b():
     radio.send_string("No")
 
 
+hello = 1
 
 radio.on_received_string(on_received_string)
 
